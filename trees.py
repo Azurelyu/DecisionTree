@@ -24,5 +24,5 @@ def createDataSet():
                [1, 0, 'no'],
                [0, 1, 'no'],
                [0, 1, 'no']]
-labels = ['no surfacing', 'flippers']
-return dataSet, labels
+    labels = ['no surfacing', 'flippers']
+    return dataSet, labels
